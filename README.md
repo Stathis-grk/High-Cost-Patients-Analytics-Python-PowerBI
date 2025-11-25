@@ -218,17 +218,18 @@ Binary prediction (High-Cost vs. Not High-Cost)
 
 
 ## Forecast With Your Data
-Example: 1) Yearly income = 23000
+Example:
+1) Yearly income = 23000
 
-         2) Medical costs of previous year = 500
+2) Medical costs of previous year = 500
         
-         3) Type of insurance = 1 (private)
+3) Type of insurance = 1 (private)
          
-         4) Number of admissions = 2
+4) Number of admissions = 2
          
-         5) Number of ED visits = 3
+5) Number of ED visits = 3
          
-         6) Number of comorbidities = 1
+6) Number of comorbidities = 1
 
 
 <img width="1020" height="743" alt="image" src="https://github.com/user-attachments/assets/8ea8211b-bc0f-4258-a079-b7c8320034b7" />

@@ -11,7 +11,7 @@ It includes:
 The goal of the project is to support data-driven decision-making in healthcare by predicting which patients are likely to generate high future costs, and by exploring the factors that influence those costs.
 
 # Data Preparation & Cleaning (Python)
-## ✔ Data Import
+## Data Import
 <img width="1093" height="621" alt="image" src="https://github.com/user-attachments/assets/9247b2ef-9271-498f-9723-cc1fd6825f57" />
 
 
@@ -19,7 +19,7 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 
 
-## ✔ Check our data
+## Check our data
 <img width="401" height="638" alt="image" src="https://github.com/user-attachments/assets/b02ccaf5-0226-42db-89a6-11c771f2c85c" />
 
 
@@ -114,3 +114,47 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 
 <img width="613" height="552" alt="image" src="https://github.com/user-attachments/assets/4aab84e8-88b7-40ae-b6aa-9cee5d6d9c2a" />
+
+
+## Dataset After Cleaing
+<img width="1848" height="646" alt="image" src="https://github.com/user-attachments/assets/3a17d195-1808-4295-b639-85b8a2450be5" />
+
+
+
+
+
+
+
+
+
+
+
+# Logistic Regression
+## create a logistic regression model to predict which patients will fall into the high cost category.
+1) high_cost = 1 ~ high cost patient
+2) high_cost = 0 ~ low cost patient
+
+### Inputs (Features)
+
+Income
+
+Previous year cost
+
+Insurance flag
+
+Number of admissions
+
+Number of ED visits
+
+Comorbidity count
+
+
+
+### Outputs
+
+Binary prediction (High-Cost vs. Not High-Cost)
+
+
+
+
+<img width="743" height="218" alt="image" src="https://github.com/user-attachments/assets/26c79487-182f-46d3-b074-2573ed433d38" />

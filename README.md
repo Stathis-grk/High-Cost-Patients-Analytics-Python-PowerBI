@@ -12,7 +12,8 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 # Data Preparation & Cleaning (Python)
 ## Data Import
-<img width="1093" height="621" alt="image" src="https://github.com/user-attachments/assets/9247b2ef-9271-498f-9723-cc1fd6825f57" />
+<img width="1002" height="468" alt="image" src="https://github.com/user-attachments/assets/a6e2fde9-bfd4-43c4-a15f-5079e70504b6" />
+
 
 
 

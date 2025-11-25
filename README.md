@@ -130,7 +130,7 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 
 # Logistic Regression
-## create a logistic regression model to predict which patients will fall into the high cost category.
+### ➡ Create a logistic regression model to predict which patients will fall into the high cost category.
 1) high_cost = 1 ~ high cost patient
 2) high_cost = 0 ~ low cost patient
 
@@ -158,3 +158,20 @@ Binary prediction (High-Cost vs. Not High-Cost)
 
 
 <img width="743" height="218" alt="image" src="https://github.com/user-attachments/assets/26c79487-182f-46d3-b074-2573ed433d38" />
+
+
+
+### Create the model (accuracy + predictions)
+<img width="1022" height="293" alt="image" src="https://github.com/user-attachments/assets/2c062d51-6443-443a-b71f-579ebb0b2039" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="997" height="465" alt="image" src="https://github.com/user-attachments/assets/8eb1638f-f3fa-4866-99e0-e6592a737e4f" />

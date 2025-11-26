@@ -255,7 +255,7 @@ Example:
 
 
 
-## The Power BI report provides a rich analytical view of the dataset, including:
+## This Power BI report provides a rich analytical view of the dataset, including:
 ### ✔ Cost Analytics
 
 Total vs. high-cost patient spending

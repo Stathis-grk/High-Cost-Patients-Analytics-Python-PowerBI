@@ -31,6 +31,13 @@ The goal of the project is to support data-driven decision-making in healthcare 
 
 
 ## Missing Data Handling and Feature Cleaning
+### ✔ Duplicates
+<img width="270" height="79" alt="Στιγμιότυπο οθόνης 2025-11-26 150047" src="https://github.com/user-attachments/assets/e4443238-879d-4ae9-a945-274beef7680e" />
+
+
+
+
+
 ### ✔ "sex" column
 <img width="472" height="197" alt="image" src="https://github.com/user-attachments/assets/5a756e22-a0b0-4fc6-9308-11cbd3b587b8" />
 

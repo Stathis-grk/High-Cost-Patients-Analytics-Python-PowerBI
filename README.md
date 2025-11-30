@@ -191,7 +191,7 @@ Binary prediction (High-Cost vs. Not High-Cost)
 
 
 
-
+#### accuracy: 84%
 ### ✔ Coefficiency (+ plot)
 <img width="610" height="313" alt="Στιγμιότυπο οθόνης 2025-11-25 215206" src="https://github.com/user-attachments/assets/92067338-3287-4eef-9be7-c87a564872b8" />
 
